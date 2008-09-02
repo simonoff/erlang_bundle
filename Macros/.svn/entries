@@ -1,0 +1,100 @@
+8
+
+dir
+10508
+http://macromates.com/svn/Bundles/trunk/Bundles/Erlang.tmbundle/Macros
+http://macromates.com/svn/Bundles
+
+
+
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfb7d73b-c2ec-0310-8fea-fb051d288c6d
+
+Case:Receive:Try Clause.tmMacro
+file
+
+
+
+
+2008-09-01T00:55:30.000000Z
+249d6cbe86f8bbaa19ee434724434dee
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
+Function Clause.tmMacro
+file
+
+
+
+
+2008-09-01T00:55:30.000000Z
+b17a862c496fc327ca54937c9f37743d
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
+Fun Clause.tmMacro
+file
+
+
+
+
+2008-09-01T00:55:30.000000Z
+e9a1aea82093162103e5791271204703
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
+Expression End.tmMacro
+file
+
+
+
+
+2008-09-01T00:55:30.000000Z
+f7f8cdb9bfacab825cab76ffcaffb583
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
+If Clause.tmMacro
+file
+
+
+
+
+2008-09-01T00:55:30.000000Z
+1885b2ca718b4d60d8f3a4ddcec91977
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
+Function End.tmMacro
+file
+
+
+
+
+2008-09-01T00:55:30.000000Z
+682020031951be1ccffdd181b397dee4
+2006-09-02T12:17:54.753339Z
+5053
+desp
+
